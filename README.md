@@ -2,11 +2,11 @@
 # Using Method of Characteristics (MoC) for SERN Design
 ---------------------------
 
-## Code :
+## Code
 - Run [main.m](https://github.com/neelaydoshi/nozzle-design-using-MoC/blob/master/main.m) file.
 - Remaining files are support functions.
 
-## Documentation :
+## Documentation
 - Read [SERN_Design_Theroy_And_Programming_Methodology.pdf](https://github.com/neelaydoshi/nozzle-design-using-MoC/blob/master/SERN_Design_Theroy_And_Programming_Methodology.pdf) for theoretical understanding.
 - (Note: Refresh the page if the PDF file does not load).
 
