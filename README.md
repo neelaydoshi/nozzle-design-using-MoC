@@ -1,15 +1,25 @@
 ---------------------------
+# Using Method of Characteristics (MoC) for SERN Design
+---------------------------
 
-Author : Neelay Doshi
+**Execution :** 
+- Run [main.m](https://github.com/neelaydoshi/nozzle-design-using-MoC/blob/master/main.m) file.
+- Remaining files are support functions.
 
-Project: Using Method of Characteristics for SERN Design
+**Theory Document :** 
+- [SERN_Design_Theroy_And_Programming_Methodology.pdf](https://github.com/neelaydoshi/nozzle-design-using-MoC/blob/master/SERN_Design_Theroy_And_Programming_Methodology.pdf)
+- (Note: Refresh the page if the PDF file does not load).
 
 ---------------------------
 
--> Execute the code using the "main.m" file.
+<p align="center">
+  <img src="images/table- MoC vs CFD.png" width="600" />
+  <br>
+</p>
 
--> Rest of the files are function files that must NOT be altered (unless you know what you are doing).
-
--> Read "SERN_Design_Theroy_And_Programming_Methodology.pdf" document to understand the theory behind the code.
+<p align="center">
+  <img src="images/SERN- MoC Schematic.png" width="600" />
+  <br>
+</p>
 
 ---------------------------
