@@ -24,4 +24,9 @@
   <br>
 </p>
 
+<p align="center">
+  <img src="images/SERN- CFD velocity contour.png" width="600" />
+  <br>
+</p>
+
 ---------------------------
